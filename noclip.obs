@@ -1,0 +1,5 @@
+OBSIDIAN/2
+name=NOCLIP
+description=Pass hazards
+code:
+noclip = true;
